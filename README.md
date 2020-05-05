@@ -17,3 +17,4 @@ lv double(16,8) NOT NULL
 ## 实现方法
 JAVA SwingGUI工具，SocketUDP、TCP连接以及他们的连接池，JDBC，Jedis连接池的使用，多线程模式下的线程安全管理，JAVAmail。
 ## 运行实例
+![image1](https://github.com/pmj714999565/battle_of_fly/blob/master/%E5%AE%9E%E4%BE%8B1.jpg)
