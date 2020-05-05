@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="607a6afe-4c21-4a49-bdaf-0194d696a895" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Battle_of_fly" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/battle_of_fly" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a3tpDbOlvwA0NsWTywm8VZi5vF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/client2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\javacode\Battle_of_fly\src\main\java\client2" />
+      <recent name="E:\javacode\Battle_of_fly\src\main\java\client3" />
+      <recent name="E:\javacode\Battle_of_fly\src\main\java\client\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\javacode\Battle_of_fly\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.domain2">
+    <configuration name="domain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.ts.domain" />
+      <module name="Battle_of_fly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.ts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="domain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client2.client.ts.domain1" />
+      <module name="Battle_of_fly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client2.client.ts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="domain2" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.ts.domain2" />
+      <module name="Battle_of_fly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.ts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="domain4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client2.ts.domain4" />
+      <module name="Battle_of_fly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client2.ts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ttt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ttt" />
+      <module name="Battle_of_fly" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.domain" />
+      <item itemvalue="Application.domain1" />
+      <item itemvalue="Application.domain2" />
+      <item itemvalue="Application.domain4" />
+      <item itemvalue="Application.ttt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.domain2" />
+        <item itemvalue="Application.domain" />
+        <item itemvalue="Application.domain4" />
+        <item itemvalue="Application.ttt" />
+        <item itemvalue="Application.domain1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="607a6afe-4c21-4a49-bdaf-0194d696a895" name="Default Changelist" comment="" />
+      <created>1585976285686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585976285686</updated>
+      <workItem from="1585976292111" duration="89997000" />
+      <workItem from="1586577664454" duration="60184000" />
+      <workItem from="1586946501463" duration="9853000" />
+      <workItem from="1587041877711" duration="17970000" />
+      <workItem from="1587210349662" duration="11273000" />
+      <workItem from="1587303652063" duration="64369000" />
+      <workItem from="1587983691601" duration="20155000" />
+      <workItem from="1588143778245" duration="27756000" />
+      <workItem from="1588576137501" duration="13005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Notifications" timestamp="1586578907891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1586578907891" />
+    <state x="361" y="70" key="#Project_Structure" timestamp="1586491919418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1586491919418" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586614104161">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586614104161" />
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588576977926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588576977926" />
+    <state x="520" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585976464064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="520" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585976464064" />
+    <state x="896" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1588601751635">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="896" y="98" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588601751635" />
+    <state x="548" y="270" width="439" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588577139711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="270" width="439" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1588577139711" />
+    <state x="547" y="240" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1587812296446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="547" y="240" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1536.824@0.0.1536.824" timestamp="1587812296446" />
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586867174561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586867174561" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1585989228011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585989228011" />
+    <state width="746" height="181" key="GridCell.Tab.0.bottom" timestamp="1588602559614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.0.bottom/0.0.1280.920@0.0.1280.920" timestamp="1586620286448" />
+    <state width="746" height="181" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588602559614" />
+    <state width="746" height="181" key="GridCell.Tab.0.center" timestamp="1588602559614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.0.center/0.0.1280.920@0.0.1280.920" timestamp="1586620286447" />
+    <state width="746" height="181" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588602559614" />
+    <state width="746" height="181" key="GridCell.Tab.0.left" timestamp="1588602559614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.0.left/0.0.1280.920@0.0.1280.920" timestamp="1586620286447" />
+    <state width="746" height="181" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588602559614" />
+    <state width="746" height="181" key="GridCell.Tab.0.right" timestamp="1588602559614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.0.right/0.0.1280.920@0.0.1280.920" timestamp="1586620286447" />
+    <state width="746" height="181" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588602559614" />
+    <state width="746" height="325" key="GridCell.Tab.1.bottom" timestamp="1587906773579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="325" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587906773579" />
+    <state width="746" height="325" key="GridCell.Tab.1.center" timestamp="1587906773579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="325" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587906773579" />
+    <state width="746" height="325" key="GridCell.Tab.1.left" timestamp="1587906773579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="325" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587906773579" />
+    <state width="746" height="325" key="GridCell.Tab.1.right" timestamp="1587906773579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="325" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587906773579" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1586489290682">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1586489290682" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1586530590447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586530590447" />
+    <state x="280" y="160" key="caller.chooser.dialog" timestamp="1588577327402">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="280" y="160" key="caller.chooser.dialog/0.0.1536.824@0.0.1536.824" timestamp="1588577327402" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588646044645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588646044645" />
+    <state x="847" y="323" width="538" height="501" key="extract.method.dialog" timestamp="1587304791979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="847" y="323" width="538" height="501" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1587304791979" />
+    <state x="447" y="11" width="642" height="801" key="find.popup" timestamp="1586592199527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="11" width="642" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1586592199527" />
+    <state x="178" y="107" key="new project wizard" timestamp="1586674839765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586674839765" />
+    <state x="511" y="39" key="refactoring.ChangeSignatureDialog" timestamp="1587814464588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="39" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1587814464588" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1587379893179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1587379893179" />
+    <state x="774" y="95" width="672" height="678" key="search.everywhere.popup" timestamp="1588577192625">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="774" y="95" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588577192625" />
+  </component>
+</project>
